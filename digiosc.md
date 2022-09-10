@@ -1,7 +1,7 @@
 # DigiOSC
-**This project is a work in progress.**
-
 Quickly and easily fire VRChat OSC-bound parameters based on various input methods.
+
+If ran from the terminal, you can use the `-d` flag to run DigiOSC in debug mode.
 
 ## Supported Input Methods
 
