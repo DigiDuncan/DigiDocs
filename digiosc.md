@@ -13,7 +13,7 @@ If ran from the terminal, you can use the `-d` flag to run DigiOSC in debug mode
 * MIDI Controller
     - Notes (digital or analog)
     - Control
-    - Channel (latest note)
+    - Channel (latest note or current program)
     - Pitchwheel
 * File read
     - Text file
