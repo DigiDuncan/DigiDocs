@@ -19,8 +19,8 @@ If ran from the terminal, you can use the `-d` flag to run DigiOSC in debug mode
     - Text file
 
 ## Limitations
-* You can not bind two inputs to the same parameter.
-    - This is because you can reasonably press any combination of buttons at once, so overlap is basically guaranteed.
+* You can not bind two parameters to the same input.
+    - There are ways to solve this problem via Unity.
 * Input types are restricted in what data they can send.
     - Table below.
 
